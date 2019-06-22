@@ -1,0 +1,6 @@
+python3.6.6 retrain2.py --bottleneck_dir=bottlenecks --how_many_training_steps=200 --model_dir=inception --output_graph=retrained_graph.pb --output_labels=retrained_labels.txt --image_dir=E:/tensorflowClassifier/data
+
+python3.6.6 classifier.py
+
+
+
