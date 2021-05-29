@@ -1,4 +1,5 @@
 # Machine_Learning_research_on_simple_target_recognition_and_intention_analysis
+![](https://img.shields.io/badge/Research__on__simple__target__recognition__and__intention__analysis-Machine__Learning-blue)<br>
 关于简单目标识别与意图分析的机器学习实战项目研究  
 
 本项目是对群体目标智能化识别进行研究，通过识别群体目标行为，有效处理并运用所获取的信息、准确判断作战群体意图。   
